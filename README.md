@@ -1,2 +1,2 @@
-# laboratorio-git
-Treinamento para manipular arquivos
+# Projeto Principal
+Versão estável feita na Main.
